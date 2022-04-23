@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: Fira Sans Condensed;
+}
+
+@font-face {
+  font-family: "Fira Sans Condensed";
+  src: url(../src/assets/fonts/FiraSansCondensed-Regular.ttf);
+}
+/*# sourceMappingURL=styles.css.map */
